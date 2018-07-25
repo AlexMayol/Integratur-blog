@@ -1,0 +1,14 @@
+:root{
+    font-size: 100%;
+    --border-radius: .25rem;
+}
+figure{
+    margin: 0;
+}
+blockquote{
+    margin: 0;
+    border-left: 4px solid green;
+}
+.azul-corp{
+    color: #004b67
+}
